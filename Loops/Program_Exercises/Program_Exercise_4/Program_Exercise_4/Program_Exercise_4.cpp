@@ -18,7 +18,7 @@ int main()
 
 	std::cout << current_balance << "$ Value of Cleo " << std::endl;
 	std::cout << original_balance << "$ Value of Daphne " << std::endl;
-	std::cout << "Take "<< years << " years, of the investiment to Cleo exceed Daphen in compound interest." << std::endl;
+	std::cout << "Take "<< years << " years, of the investiment to Cleo exceed Daphen in compound interest investment type." << std::endl;
 	   
 	return 0;
 }
