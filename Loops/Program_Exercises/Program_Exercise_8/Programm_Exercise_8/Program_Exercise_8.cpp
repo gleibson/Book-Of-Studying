@@ -22,7 +22,7 @@ int main()
 	   //std::cin.get();
 	}
 
-	std::cout << " You entered a total of " << count << " words ";
+	std::cout << " You entered a total of " << count << " words " << std:.endl;
 	return 0;
 
 }
